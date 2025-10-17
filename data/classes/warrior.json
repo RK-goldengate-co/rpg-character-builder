@@ -1,0 +1,24 @@
+{
+  "id": "warrior",
+  "name": "Warrior",
+  "description": "A strong melee fighter with high HP and physical damage",
+  "baseStats": {
+    "STR": 16,
+    "DEX": 12,
+    "INT": 8,
+    "WIS": 10,
+    "CON": 14,
+    "CHA": 10
+  },
+  "healthPerLevel": 12,
+  "startingSkills": [
+    "power_strike",
+    "shield_bash",
+    "battle_cry"
+  ],
+  "equipment": {
+    "weapon": "longsword",
+    "armor": "plate_mail",
+    "shield": "heavy_shield"
+  }
+}
